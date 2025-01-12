@@ -41,3 +41,8 @@ function ListNode(val, next = null) {
   
   console.log(hasCycle(node1_3)); 
   
+  // Example
+  head = [3,2,0,-4], pos = 1
+  head = [1,2], pos = 0
+  head = [1], pos = -1
+  
